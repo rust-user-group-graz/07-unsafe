@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="250"
+   viewBox="0 0 105.83333 66.145835"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="C_unsafe_and_safe_rust.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7933333"
+     inkscape:cx="200"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-230.85415)">
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#daffda;fill-opacity:1;stroke:#000000;stroke-width:0.25999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819"
+       cx="51.858963"
+       cy="264.44922"
+       rx="51.195927"
+       ry="30.973301" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#dadaff;fill-opacity:1;stroke:#000000;stroke-width:0.25999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path817"
+       cx="46.412586"
+       cy="269.21805"
+       rx="43.097404"
+       ry="20.838305" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#ffdada;fill-opacity:1;stroke:#000000;stroke-width:0.25999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815"
+       cx="33.009769"
+       cy="272.53323"
+       ry="12.124104"
+       rx="26.852999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.4828463"
+       y="275.28012"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="7.4828463"
+         y="275.28012"
+         style="stroke-width:0.26458332">C semantics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.70299"
+       y="258.81519"
+       id="text823-3"><tspan
+         sodipodi:role="line"
+         id="tspan821-6"
+         x="19.70299"
+         y="258.81519"
+         style="stroke-width:0.26458332">unsafe rust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Gentium Plus';-inkscape-font-specification:'Gentium Plus';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.393692"
+       y="245.29799"
+       id="text823-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan821-6-5"
+         x="30.393692"
+         y="245.29799"
+         style="stroke-width:0.26458332">safe rust</tspan></text>
+  </g>
+</svg>
